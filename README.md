@@ -55,7 +55,7 @@ Quisiera informarles que, lamentablemente, no pude completar la tarea número 3 
 
 Tras investigar más a fondo, descubrí que estas limitaciones están relacionadas con políticas de seguridad actualizadas por parte de Google, las cuales restringen ciertas acciones automatizadas en su plataforma. Aunque he intentado adaptar el script para cumplir con estas políticas, no he tenido éxito hasta el momento.
 
-Sin embargo, [encontrarán dos scripts](Automatización-de-pruebas/AutomatizaciónPruebaQUIPU/) y el video ![aquí](Automatización-de-pruebas/VideoPruebaAutomatizada.mp4) donde se demuestra el flujo y donde Google permite el acceso. Lamentablemente, esto limita la capacidad de completar el proceso de envío de correo electrónico.
+Sin embargo, [encontrarán dos scripts](Automatización-de-pruebas/AutomatizaciónPruebaQUIPU/) y el video [aquí](Automatización-de-pruebas/VideoPruebaAutomatizada.mp4) donde se demuestra el flujo y donde Google permite el acceso. Lamentablemente, esto limita la capacidad de completar el proceso de envío de correo electrónico.
 
 Dado este inconveniente, sugiero considerar cambiar este punto por otro sistema o proceso que pueda ser implementado exitosamente. Agradezco su comprensión y quedo atento a cualquier instrucción adicional que puedan proporcionar.
 
